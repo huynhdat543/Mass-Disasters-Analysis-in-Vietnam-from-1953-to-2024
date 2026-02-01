@@ -27,7 +27,7 @@ The implementation team followed a systematic process including the following st
 
 ## 📊 Results and Valuable Insights
 
-Link to DashBoard: [Click Here](https://app.powerbi.com/groups/me/reports/2ae71530-b0aa-471f-8768-ccbd4bb9d7f4/2f0288ae1174d26ec60b?experience=power-bi)
+**Link to DashBoard:** [Click Here](https://app.powerbi.com/groups/me/reports/2ae71530-b0aa-471f-8768-ccbd4bb9d7f4/2f0288ae1174d26ec60b?experience=power-bi)
 
 **1. Characteristics of Disaster Morphology**
 - Trend: The number of disasters shows a clear long-term upward trend. During the period 1953-1989, the frequency was low (1-3 incidents/year), but after 1990 it exploded to 7-13 incidents/year (peaking at 16 incidents in 2005).
